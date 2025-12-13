@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Feed Agent Admin",
+  "description": "Admin dashboard for controlling the Telegram Feed Agent, managing sources, policies, and viewing analytics.",
+  "requestFramePermissions": []
+}
